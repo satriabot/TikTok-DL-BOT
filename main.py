@@ -16,7 +16,7 @@ import logging
 API = 'https://api.single-developers.software/tiktok?url='
 
 # Your BOT Token
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("5998969745:AAGT1TFXQOmt5rznHHu_vPkmogIaFBa19Dc")
 
 # TikTok Video URL Types , You Can Add More to This :)
 TikTok_Link_Types= ['https://m.tiktok.com','https://vt.tiktok.com','https://tiktok.com','https://www.tiktok.com']
